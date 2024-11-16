@@ -20,11 +20,11 @@ I planned to learn PHP and C.
 
 <h1 align="center">My Github'statistics :</h1>
 
-![Stats de etoiledefeu](https://github-readme-stats.vercel.app/api?username=etoiledefeu&show_icons=true&theme=tokyonight)
+![Stats de etoiledefeu](https://github-readme-stats.vercel.app/api?username=etoile2feu&show_icons=true&theme=tokyonight)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etoiledefeu)](https://github.com)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etoile2feu)](https://github.com)
 
-![oe](https://komarev.com/ghpvc/?username=etoiledefeu&color=blue)
+![oe](https://komarev.com/ghpvc/?username=etoile2feu&color=blue)
 
 <h2 align="center"> My main projects </h2>
 
