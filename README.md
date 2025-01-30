@@ -1,13 +1,13 @@
 # Hi ! 👋
 
-I'me Etoile de Feu, a passionate french developer 👨‍💻.
+I'm Etoile de Feu, a passionate french developer 👨‍💻.
 I lost the access to @etoiledefeu sooo it's my new account.
 
-Since my youth I am passionate about computers, notably in softwares and system management.
-Linux is my main operating system from the beginning, (terminal ❤️), but I also use Windows. I use several distros, my favorite is Ubuntu.
-I started to really code around May 2022. In June 2022, I'm coding my first programming'project : Sbot, a discord bot in nodejs.
+Since my youth I have been passionate about computers, notably in softwares and system management.
+Linux is my main operating system from the beginning, (terminal ❤️), but I also use Windows. I use several distros, but my favorite one is Ubuntu.
+I started to really coding around May 2022. In June 2022, I'm coding my first programming'project : Sbot, a discord bot in nodejs.
 Since then, I explore and learn a lot of languages ​​with passion !
-On this github, I will post npm modules, and others !
+On this github, I'll post npm modules, and others thinks I promise u'll love !
 
 
 <h1 align="center">My #3 programming languages</h1>
