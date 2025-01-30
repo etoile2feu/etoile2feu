@@ -5,7 +5,7 @@ I lost the access to @etoiledefeu sooo it's my new account.
 
 Since my youth I have been passionate about computers, notably in softwares and system management.
 Linux is my main operating system from the beginning, (terminal ❤️), but I also use Windows. I use several distros, but my favorite one is Ubuntu.
-I started to really coding around May 2022. In June 2022, I'm coding my first programming'project : Sbot, a discord bot in nodejs.
+I started to really coding around May 2022. In June 2022, I'm coding my first programming project : Sbot, a discord bot in nodejs.
 Since then, I explore and learn a lot of languages ​​with passion !
 On this github, I'll post npm modules, and others thinks I promise u'll love !
 
