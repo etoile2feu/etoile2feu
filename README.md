@@ -14,7 +14,15 @@ On this github, I'll post npm modules, and others thinks I promise u'll love !
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bash,cloudflare,css,debian,discord,bots,discordjs,docker,emacs" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bash,cloudflare,css,debian" />
+   <img src="https://skillicons.dev/icons?i=discord,bots,discordjs,docker,emacs" />
+<img src="https://skillicons.dev/icons?i=express,git,github,gmail,gradle" />
+<img src="https://skillicons.dev/icons?i=heroku,html,js,kali,kotlin" />
+<img src="https://skillicons.dev/icons?i=linux,mongodb,nginx,nodejs,notion" />
+<img src="https://skillicons.dev/icons?i=npm,postman,py,qt,rasberrypi" />
+<img src="https://skillicons.dev/icons?i=redis,replit,sqlite,threejs,ubuntu" />
+<img src="https://skillicons.dev/icons?i=vim,vite,vscode,vue,windows" />
+
   </a>
 </p>
 
