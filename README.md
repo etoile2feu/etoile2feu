@@ -11,7 +11,7 @@ Recently I try to improve my skills in web development, by learning Vite/Vue.js.
 On this github, I'll post npm modules, and others thinks I promise u'll love !
 
 
-<h1 align="center">My #3 programming languages</h1>
+<h1 align="center">My top programming languages</h1>
 
 + JavaScript/Nodejs (my main programming language)
 + Python
