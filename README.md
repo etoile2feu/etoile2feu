@@ -14,7 +14,7 @@ On this github, I'll post npm modules, and others thinks I promise u'll love !
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio, bash, cloudflare" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bash,cloudflare" />
   </a>
 </p>
 
