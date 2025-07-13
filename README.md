@@ -1,10 +1,10 @@
 # Hi ! 👋
 
-```etoile2feu@localhost$ who```
+``etoile2feu@localhost$ who``
 I'm Etoile de Feu, a passionated french developer 👨‍💻.
 My old account is @etoiledefeu.
 
-```etoile2feu@localhost$ curl https://localhost/interests```
+``etoile2feu@localhost$ curl https://localhost/interests``
 Since my youth I am interested a lot about computers, especially in softwares and system management.
 Linux is my main operating system since the beginning, (terminal ❤️), but I also use Windows. I use several distros, but my favorite one is Ubuntu.
 I started to really coding around May 2022. In June 2022, I started coding my first programming project : Sbot, a discord bot in nodejs.
