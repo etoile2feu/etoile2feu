@@ -1,10 +1,10 @@
 # Hi ! 👋
 
-``etoile2feu@localhost$ who``
+```etoile2feu@localhost$ who```<\br>
 I'm Etoile de Feu, a passionated french developer 👨‍💻.
 My old account is @etoiledefeu.
 
-``etoile2feu@localhost$ curl https://localhost/interests``
+```etoile2feu@localhost$ curl https://localhost/interests```<\br>
 Since my youth I am interested a lot about computers, especially in softwares and system management.
 Linux is my main operating system since the beginning, (terminal ❤️), but I also use Windows. I use several distros, but my favorite one is Ubuntu.
 I started to really coding around May 2022. In June 2022, I started coding my first programming project : Sbot, a discord bot in nodejs.
@@ -14,7 +14,7 @@ On this github, I'll post npm modules, and others thinks I promise u'll love !
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio, bash, cloudflare, css, debian, discord, bots, discordjs, docker, emacs, express, git, github, gmail, gradle, heroku, html, js, kali, kotlin, linux, mongodb, nginx, nodejs, notion, npm, postman, py, qt, rasberrypi, redis, replit, sqlite, threejs, ubuntu, vim, vite, vscode, vue, windows" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
   </a>
 </p>
 
