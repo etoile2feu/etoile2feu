@@ -10,7 +10,7 @@ Linux is my main operating system since the beginning, (terminal ❤️), but I 
 I started to really coding around May 2022. In June 2022, I started coding my first programming project : Sbot, a discord bot in nodejs.
 Since then, I explore and learn a lot of languages ​​with passion !
 Recently I try to improve my skills in web development, by learning Vite/Vue.js.
-On this github, I'll post npm modules, and others thinks I promise u'll love !
+On this github, I'll post npm modules, and others things I promise u'll love !
 
 <p align="center">
   <a href="https://skillicons.dev">
