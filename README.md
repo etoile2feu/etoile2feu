@@ -12,7 +12,7 @@ Since then, I explore and learn a lot of languages ​​with passion !
 Recently I try to improve my skills in web development, by learning Vite/Vue.js.
 On this github, I'll post npm modules, and others things I promise u'll love !
 
-<h1> A few of my skills </h1>
+<h1> My dev journey </h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,bash,cloudflare,css,debian" />
