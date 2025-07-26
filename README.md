@@ -40,9 +40,13 @@ On this github, I'll post npm modules, and others things I promise u'll love !
 
 <h1 align="center">My Github'statistics :</h1>
 
+<div align="left">
 ![Stats de etoiledefeu](https://github-readme-stats.vercel.app/api?username=etoile2feu&show_icons=true&theme=tokyonight)
+</div>
 
+<div align="right">
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etoile2feu)](https://github.com)
+</div>
 
 ![oe](https://komarev.com/ghpvc/?username=etoile2feu&color=blue)
 
