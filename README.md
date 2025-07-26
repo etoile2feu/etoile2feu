@@ -34,8 +34,8 @@ On this github, I'll post npm modules, and others things I promise u'll love !
 + Python
 + Web languages (HTML/CSS...)
 + Web frameworks :
-- Vite
-- Vue.js
+  - Vite
+  - Vue.js
 + Also, I explore and use other language : bash, a little kotlin, and many others !
 
 <h1 align="center">My Github'statistics :</h1>
