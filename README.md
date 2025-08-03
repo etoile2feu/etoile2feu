@@ -52,5 +52,5 @@ On this github, I'll post npm modules, and others things I promise u'll love !
 <h2 align="center"> My main projects </h2>
 
 + :robot: I code a discord bot ! If you want to add it to your guild: [lien](https://top.gg/bot/988866995393024040) and here is its documentation: 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=etoiledefeu&repo=sbot-docs)](https://github.com/etoiledefeu/sbot-docs" alt="readme"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=etoile2feu&repo=sbot-docs)](https://github.com/etoile2feu/sbot-docs" alt="readme"></div>
 + Npm module soon... :eyes:
