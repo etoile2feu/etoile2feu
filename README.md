@@ -4,14 +4,14 @@
 I'm Etoile de Feu, a passionated french developer 👨‍💻.
 
 ```etoile2feu@localhost$ curl https://localhost/interests```<br/>
-Since my youth I am interested a lot about computers, especially in softwares and system management.
+Since my youth I was interested a lot about computers, especially in softwares and system management.
 Linux is my main operating system since the beginning, (terminal ❤️), but I also use Windows. I use several distros, but my favorite one is Ubuntu.
-I started to really coding around May 2022. In June 2022, I started coding my first programming project : Sbot, a discord bot in nodejs.
-Since then, I explore and learn a lot of languages ​​with passion !
-Recently I try to improve my skills in web development, by learning Vite/Vue.js.
+I started really coding around May 2022. In June 2022, I started coding my first programming project : Sbot, a Discord Bot in Javascript with NodeJS & Discord.js.
+Since then, I have been exploring and learning many languages with passion!
+Recently, I try to improve my skills in web development, by learning Vite/Vue.js.
 On this github, I'll post npm modules, and others things I promise u'll love !
 
-<h1> My dev journey </h1>
+<h1 align="center"> My Developer Journey </h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,bash,cloudflare,css,debian" />
@@ -27,17 +27,17 @@ On this github, I'll post npm modules, and others things I promise u'll love !
 </p>
 
 
-<h1 align="center">My top programming languages</h1>
+<h1 align="center">My Top Programming Languages</h1>
 
-+ JavaScript/Nodejs (my main programming language)
++ JavaScript with NodeJS (my main programming language)
 + Python
 + Web languages (HTML/CSS...)
 + Web frameworks :
   - Vite
   - Vue.js
-+ Also, I explore and use other language : bash, a little kotlin, and many others !
++ Also, I explore and use others languages : Bash, a little Kotlin, and many others !
 
-<h1 align="center">My Github'statistics :</h1>
+<h1 align="center">My Github's Statistics</h1>
 
 <div align="center">
 
@@ -49,8 +49,7 @@ On this github, I'll post npm modules, and others things I promise u'll love !
   
 </div>
 
-<h2 align="center"> My main projects </h2>
+<h2 align="center"> My Main Projects </h2>
 
-+ :robot: I code a discord bot ! If you want to add it to your guild: [lien](https://top.gg/bot/988866995393024040) and here is its documentation: 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=etoile2feu&repo=sbot-docs)](https://github.com/etoile2feu/sbot-docs" alt="readme"></div>
++ :robot: I code a discord bot ! If you want to add it to your guild: [lien](https://top.gg/bot/988866995393024040) and here is its [documentation](https://sbot-1.gitbook.io/ ): 
 + Npm module soon... :eyes:
