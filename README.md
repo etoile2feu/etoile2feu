@@ -39,18 +39,18 @@ On this github, I'll post npm modules, and others things I promise u'll love !
 
 <h1 align="center">My Github'statistics :</h1>
 
-<div align="left">
-![Stats de etoile2feu](https://github-readme-stats.vercel.app/api?username=etoile2feu&show_icons=true&theme=tokyonight)
-</div>
+<div align="center">
 
-<div align="right">
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=etoile2feu)](https://github.com)
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=etoiledefeu&show_icons=true&theme=tokyonight" alt="stat">
 
-![oe](https://komarev.com/ghpvc/?username=etoile2feu&color=blue)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etoiledefeu" alt="lang">
+
+<img src="https://komarev.com/ghpvc/?username=etoiledefeu&color=blue" alt="oe">
+  
+</div>
 
 <h2 align="center"> My main projects </h2>
 
-+ 🤖 I code a discord bot ! If you want to add it to your guild: [lien](https://top.gg/bot/988866995393024040) and here is its documentation: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=etoiledefeu&repo=sbot-docs)](https://github.com/etoiledefeu/sbot-docs)
-+ Npm module soon... 👀
++ :robot: I code a discord bot ! If you want to add it to your guild: [lien](https://top.gg/bot/988866995393024040) and here is its documentation: 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=etoiledefeu&repo=sbot-docs)](https://github.com/etoiledefeu/sbot-docs" alt="readme"></div>
++ Npm module soon... :eyes:
