@@ -7,7 +7,7 @@ I'm Etoile de Feu, a passionated french developer 👨‍💻.
 Since my youth I was interested a lot about computers, especially in softwares and system management.
 Linux is my main operating system since the beginning, (terminal ❤️), but I also use Windows. I use several distros, but my favorite one is Ubuntu.
 I started really coding around May 2022. In June 2022, I started coding my first programming project : Sbot, a Discord Bot in Javascript with NodeJS & Discord.js.
-Since then, I have been exploring and learning many languages with passion!
+Since then, I have been exploring and learning many languages with passion !
 Recently, I try to improve my skills in web development, by learning Vite/Vue.js.
 
 <h1 align="center"> My Developer Journey </h1>
