@@ -29,7 +29,7 @@ On this github, I'll post npm modules, and others things I promise u'll love !
 
 <h1 align="center">My Top Programming Languages</h1>
 
-+ JavaScript with NodeJS (my main programming language)
++ JavaScript and NodeJS (my main programming language)
 + Python
 + Web languages (HTML/CSS...)
 + Web frameworks :
