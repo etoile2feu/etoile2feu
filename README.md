@@ -41,11 +41,11 @@ On this github, I'll post npm modules, and others things I promise u'll love !
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=etoiledefeu&show_icons=true&theme=tokyonight" alt="stat">
+<img src="https://github-readme-stats.vercel.app/api?username=etoile2feu&show_icons=true&theme=tokyonight" alt="stat">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etoiledefeu" alt="lang">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etoile2feu" alt="lang">
 
-<img src="https://komarev.com/ghpvc/?username=etoiledefeu&color=blue" alt="oe">
+<img src="https://komarev.com/ghpvc/?username=etoile2feu&color=blue" alt="oe">
   
 </div>
 
