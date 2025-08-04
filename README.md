@@ -9,7 +9,7 @@ Linux is my main operating system since the beginning, (terminal ❤️), but I 
 I started really coding around May 2022. In June 2022, I started coding my first programming project : Sbot, a Discord Bot in Javascript with NodeJS & Discord.js.
 Since then, I have been exploring and learning many languages with passion!
 Recently, I try to improve my skills in web development, by learning Vite/Vue.js.
-On this github, I'll post npm modules, and others things I promise u'll love !
+On this github, I post things like npm modules and documentation !
 
 <h1 align="center"> My Developer Journey </h1>
 <p align="center">
