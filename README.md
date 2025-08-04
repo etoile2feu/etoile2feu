@@ -52,4 +52,4 @@ On this github, I'll post npm modules, and others things I promise u'll love !
 <h2 align="center"> My Main Projects </h2>
 
 + :robot: I code a discord bot ! If you want to add it to your guild: [lien](https://top.gg/bot/988866995393024040) and here is its [documentation](https://sbot-1.gitbook.io/ ): 
-+ Creator of the npm module [waiting-tools](https://github.com/etoile2feu/waiting-tools)
++ Creator of the npm module [waiting-tools](https://github.com/etoile2feu/waiting-tool)
