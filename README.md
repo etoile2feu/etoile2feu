@@ -5,7 +5,7 @@ I'm Etoile de Feu, a passionated french developer 👨‍💻.
 
 ```etoile2feu@localhost$ curl https://localhost/interests```<br/>
 Since my youth I was interested a lot about computers, especially in softwares and system management.
-Linux is my main operating system since the beginning, (terminal ❤️), but I also use Windows. I use several distros, but my favorite one is Ubuntu.
+Linux is my main operating system since the beginning, (terminal ❤️) especially the Ubuntu distro, but I also use Windows. I use several distros, but my favorite one is Ubuntu.
 I started really coding around May 2022. In June 2022, I started coding my first programming project : Sbot, a Discord Bot in Javascript with NodeJS & Discord.js.
 Since then, I have been exploring and learning many languages with passion !
 Recently, I try to improve my skills in web development, by learning Vite/Vue.js.
@@ -13,15 +13,14 @@ Recently, I try to improve my skills in web development, by learning Vite/Vue.js
 <h1 align="center"> My Developer Journey </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bash,cloudflare,css,debian" />
-   <img src="https://skillicons.dev/icons?i=discord,bots,discordjs,docker,emacs" />
-<img src="https://skillicons.dev/icons?i=express,git,github,gmail,gradle" />
-<img src="https://skillicons.dev/icons?i=heroku,html,js,kali,kotlin" />
-<img src="https://skillicons.dev/icons?i=linux,mongodb,nginx,nodejs,notion" />
-<img src="https://skillicons.dev/icons?i=npm,postman,py,qt,raspberrypi" />
-<img src="https://skillicons.dev/icons?i=redis,replit,sqlite,threejs,ubuntu" />
-<img src="https://skillicons.dev/icons?i=vim,vite,vscode,vue,windows" />
-
+    <img src="https://skillicons.dev/icons?i=androidstudio,bash,cloudflare,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,debian,docker,discord,bots,discordjs" />
+    <img src="https://skillicons.dev/icons?i=emacs,flutter,express,git,github,gmail" />
+    <img src="https://skillicons.dev/icons?i=,gradle,heroku,html,js,kali,kotlin" />
+    <img src="https://skillicons.dev/icons?i=linux,md,mongodb,mysql,nginx,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mysql,npm,postman,py,qt,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=redis,replit,sqlite,threejs,ts,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=vim,vite,vscode,vue,windows,workers" />
   </a>
 </p>
 
