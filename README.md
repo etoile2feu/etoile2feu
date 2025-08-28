@@ -10,6 +10,8 @@ I started really coding around May 2022. In June 2022, I started coding my first
 Since then, I have been exploring and learning many languages with passion !
 Recently, I try to improve my skills in web development, by learning Vite/Vue.js.
 
+Contact me at etoilesoftwares@gmail.com or via my Discord @etoile2feu 🔥.
+
 <h1 align="center"> My Developer Journey </h1>
 <p align="center">
   <a href="https://skillicons.dev">
