@@ -16,7 +16,7 @@ Recently, I try to improve my skills in web development, by learning Vite/Vue.js
     <img src="https://skillicons.dev/icons?i=androidstudio,bash,cloudflare,css" />
     <img src="https://skillicons.dev/icons?i=cpp,debian,docker,discord,bots,discordjs" />
     <img src="https://skillicons.dev/icons?i=emacs,flutter,express,git,github,gmail" />
-    <img src="https://skillicons.dev/icons?i=gradle,heroku,html,js,kali,kotlin," />
+    <img src="https://skillicons.dev/icons?i=gradle,heroku,html,js,kali,kotlin" />
     <img src="https://skillicons.dev/icons?i=linux,md,mongodb,mysql,nginx,nodejs" />
     <img src="https://skillicons.dev/icons?i=mysql,npm,postman,py,qt,raspberrypi" />
     <img src="https://skillicons.dev/icons?i=redis,replit,sqlite,threejs,ts,ubuntu" />
